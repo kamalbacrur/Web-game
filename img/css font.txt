@@ -1,0 +1,4 @@
+font-family: 'Poppins', sans-serif;
+font-family: 'Bowlby One SC', cursive;
+
+<link href="https://fonts.googleapis.com/css?family=Bowlby+One+SC|Poppins&display=swap" rel="stylesheet">
